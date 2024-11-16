@@ -1,0 +1,7 @@
+package comp.CPU;
+
+public enum Frequency {
+    TWO_THOUSAND_ONE_HUNDRED,
+    TWO_THOUSAND_NINE_HUNDRED,
+    THREE_THOUSAND_ONE_HUNDRED
+}
